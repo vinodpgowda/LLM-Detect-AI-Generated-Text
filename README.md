@@ -26,7 +26,7 @@ For more details and to explore other Kaggle notebooks, visit my Kaggle profile:
 
 ## Link to Blog
 
-[Link to the blog](https://vinodkumarpgowda.wixsite.com/profile/post/tpu-triumph-mastering-kaggle-s-petals-to-the-metal-flower-classification)
+[Link to the blog](https://vinodkumarpgowda.wixsite.com/profile/post/understanding-naive-bayes-classifier-and-its-application-in-detecting-ai-generated-text)
 
 ## Link to Profile
 

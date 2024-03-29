@@ -1,5 +1,5 @@
 # Naive-Bayes-Classifier
-This repository contains the code and experiments for the "LLM - Detect AI Generated Text" Kaggle competition using Naive Bayes Classifier.
+This repository contains the code and experiments for the "LLM - Detect AI Generated Text" Kaggle competition using a Naive Bayes Classifier.
 
 ## Kaggle Notebooks
 
